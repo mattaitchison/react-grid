@@ -1,1 +1,1 @@
-exports = require('./Grid.jsx');
+module.exports = require('./Grid.jsx');
